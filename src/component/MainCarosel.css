@@ -1,0 +1,11 @@
+.slidercontents {
+  height: 680px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+.wrapText {
+  margin-left: 12%;
+}

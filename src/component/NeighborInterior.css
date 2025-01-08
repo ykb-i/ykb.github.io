@@ -1,0 +1,27 @@
+.neighbor{
+  width: 1400px;
+  align-items: center;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.neighbor_info{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 0;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.neighbor_info li{
+  width: 330px;
+  height: 220px;
+  margin-bottom: 50px;
+}
+
+.neighbor_info img{
+  width: 330px;
+  height: 200px;
+  border-radius: 8%;
+}

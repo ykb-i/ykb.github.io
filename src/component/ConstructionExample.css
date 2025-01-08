@@ -1,0 +1,41 @@
+.construction_wrapper{
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.construction_content{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+}
+
+.construction_img{
+  width: 44%;
+}
+
+.construction_img img{
+  width: 100%;
+  height: 300px;
+}
+
+.construction_select{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  width: 52%;
+}
+
+.construction_select li{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  height: 166px;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.construction_select li p,h4{
+  margin: 0;
+}
