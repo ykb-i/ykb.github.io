@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ykb.github.io/static/css/main.2a268bed.css",
+    "main.js": "/ykb.github.io/static/js/main.eb578566.js",
+    "index.html": "/ykb.github.io/index.html",
+    "main.2a268bed.css.map": "/ykb.github.io/static/css/main.2a268bed.css.map",
+    "main.eb578566.js.map": "/ykb.github.io/static/js/main.eb578566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a268bed.css",
+    "static/js/main.eb578566.js"
+  ]
+}
